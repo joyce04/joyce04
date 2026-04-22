@@ -7,10 +7,3 @@
 
 ## What I work with
 Python · LangGraph · CrewAI · Transformers · HuggingFace · Databricks · AWS · PyTorch
-
-<-- ## Featured projects
-- [RAG pipeline](#) — production RAG system for querying UNHCR refugee data
-- [Agentic AI projects](#) — LangGraph / CrewAI agent workflows
-- [Disease network graph ML](#) — PyG Biggraph on DisGeNET dataset
-
-📬 Open to ML engineering roles — glee8804@gmail.com -->
