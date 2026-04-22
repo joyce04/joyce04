@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm GLEE 👋
 
-<!--
-**joyce04/joyce04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- currently exploring what's possible with vibe coding and AI
+- previously, built production NLP models and LLM agent pipelines at BlackBird.AI
+- worked on Graph Neural Networks and clinical NLP at UCLA and SNU
+- before that, shipped production software at Samsung SDS
 
-Here are some ideas to get you started:
+## What I work with
+Python · LangGraph · CrewAI · Transformers · HuggingFace · Databricks · AWS · PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<-- ## Featured projects
+- [RAG pipeline](#) — production RAG system for querying UNHCR refugee data
+- [Agentic AI projects](#) — LangGraph / CrewAI agent workflows
+- [Disease network graph ML](#) — PyG Biggraph on DisGeNET dataset
+
+📬 Open to ML engineering roles — glee8804@gmail.com -->
